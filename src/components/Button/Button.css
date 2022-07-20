@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap");
+
+.button_Choice {
+  display: flex;
+  padding: 15px;
+  margin-top: 1em;
+  border-radius: 50% 50%;
+  border: none;
+  background-color: hsl(216, 12%, 8%);
+  color: hsl(217, 12%, 63%);
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.button_Choice:hover {
+  background-color: hsl(25, 97%, 53%);
+  color: black;
+}
+
+.button_Submit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  background-color: hsl(25, 97%, 53%);
+  width: 20em;
+  padding: 1em;
+  border-radius: 30px;
+  font-family: "Overpass", sans-serif;
+  font-size: 700;
+  font-weight: bolder;
+  color: hsl(0, 0%, 100%);
+  cursor: pointer;
+}
+
+@media screen and (max-width: 420px) {
+  .button_Submit {
+    width: 15em;
+  }
+}
