@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/componentinterective/static/css/main.cbe8e965.css",
+    "main.js": "/componentinterective/static/js/main.76b7106a.js",
+    "index.html": "/componentinterective/index.html",
+    "main.cbe8e965.css.map": "/componentinterective/static/css/main.cbe8e965.css.map",
+    "main.76b7106a.js.map": "/componentinterective/static/js/main.76b7106a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbe8e965.css",
+    "static/js/main.76b7106a.js"
+  ]
+}
